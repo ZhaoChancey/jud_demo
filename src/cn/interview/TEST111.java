@@ -7,6 +7,6 @@ package cn.interview;
 public class TEST111 {
     public static void main(String[] args) {
         System.out.println("更新");
-        System.out.println("remote");
+        System.out.println("local");
     }
 }
